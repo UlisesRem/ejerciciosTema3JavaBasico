@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="286e794f-eba8-4e94-b5f2-ed99c05c0981" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ejerciciosTema3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/EjerciciosTema3/concatenar.java" afterDir="false" />
+    <list default="true" id="286e794f-eba8-4e94-b5f2-ed99c05c0981" name="Changes" comment="creacion de ejercicio tema 3">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/EjerciciosTema3/concatenar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/EjerciciosTema3/concatenar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,6 +64,18 @@
       <option name="presentableId" value="Default" />
       <updated>1675137699832</updated>
     </task>
+    <task id="LOCAL-00001" summary="creacion de ejercicio tema 3">
+      <created>1675139100603</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675139100603</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="creacion de ejercicio tema 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="creacion de ejercicio tema 3" />
   </component>
 </project>

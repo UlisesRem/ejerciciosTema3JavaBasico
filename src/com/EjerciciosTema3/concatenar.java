@@ -6,10 +6,11 @@ public class concatenar {
     }
 
     static void conca(){
-        String gatos [] = {"Coco", "Hayley", "Calixto"};
 
-        for (int i=0;i<=0 ;i++){
-            System.out.println(gatos[0]+" "+gatos[1]+" "+gatos[2]);
+        String[] gatos = new String[]{"Coco", "Hayley", "Calixto"};
+
+        for(int i = 0; i < gatos.length; i++){
+            System.out.print(gatos[i]+ " ");
         }
     }
-}
+    }
